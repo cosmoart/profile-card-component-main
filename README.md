@@ -72,5 +72,5 @@ This challenge was a great learning opportunity, it was also very useful to rein
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: https://cosmoart.github.io/profile-card-solution/
+[live-page]: https://cosmoart.github.io/profile-card-component-main/
 [solution-url]: https://www.frontendmentor.io/solutions/profile-card-component-solution-5WHFWVJN9
