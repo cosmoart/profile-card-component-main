@@ -41,7 +41,6 @@ Users should be able to:
 
  <img src="images/desktop-solution.png" alt="Solution" width="100%"/>
 
-
 ### Links
 
 -   [Solution][solution-url]
