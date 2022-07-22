@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Screenshot
 
- <img src="images/desktop-solution.png" alt="Solution" width="100%"/>
+ <img src="images/desktop-solution.png" alt="Solution" width="100%" />
 
 ### Links
 
