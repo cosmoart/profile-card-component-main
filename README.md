@@ -59,7 +59,7 @@ Users should be able to:
 
 ### What I learned
 
-This challenge was a great learning opportunity, it was also very useful to reinforce previous knowledge, and face problems that had not been presented to me before.
+This challenge was a great learning opportunity, it was also very useful to reinforce previous knowledge, and face problems that had not been presented to me before. It was very useful.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
