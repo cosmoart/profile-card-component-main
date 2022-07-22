@@ -35,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 Users should be able to:
 
-- See hover states for interactive elements
+- See hover states for interactive elements.
 
 ### Screenshot
 
@@ -51,10 +51,10 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- FlexBox layout
-- Mobile-first workflow
+- Semantic HTML5 markup.
+- CSS custom properties.
+- FlexBox layout.
+- Mobile-first workflow.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
